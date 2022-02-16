@@ -1,7 +1,5 @@
 package br.com.dio;
 
-import java.util.Objects;
-
 public class Gato {
     private String nome;
     private String cor;
